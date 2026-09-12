@@ -1,1 +1,1 @@
-# sfu_web
+# Pet project for student IMFI SFU
